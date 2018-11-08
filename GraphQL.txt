@@ -1,0 +1,17 @@
+graphql.org
+A query language for your API
+
+Ferramenta em Hype
+Principalmente pela facilidade de coletar dados do seu Backend
+atraves do Front End
+Veio para substituir o REST
+No GraphQL nao se tem mais os metodos GET POST PUT DELETE
+Um unico endpoint chamado /graphql, que eh responsavel por devovler toda e qualquer informacao contida no back-end
+
+Problema que resolve
+Comum ter que mudar o conteudo ou o formato do backend por causa do front end
+Pelo GraphQL controla todos os dados pelo front-end
+
+Type - Um Model ou uma tabela, definicao de objetos dentro do Type
+Schema - Um conjunto de Types, Arquivo com todas informacoes com tabelas de dados no GraphQL
+
